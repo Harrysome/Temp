@@ -1,6 +1,7 @@
 # Temp
 Take your code away
-```cpp=
+
+```
 #include <stdio.h>
 
 int main() {
